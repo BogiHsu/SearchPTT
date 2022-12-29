@@ -3,6 +3,10 @@ f07942095 許博竣
 
 ## Available Scripts
 
+### Preparation
+Modified the IP address and the port of the API host in `src/app/ip.js` before running the scripts.
+
+
 In the project directory, you can run:
 
 ### `yarn start`
