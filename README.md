@@ -1,4 +1,8 @@
 # SearchPTT
+<p align="center">
+  <img src="webpage/src/apps/letter-p-home.png" width="250"/>
+</p>
+
 f07942095 許博竣
 
 SearchPTT is a web app for exploring popular posts and trends on PTT. You can also "play" a selected post like listening to a podcast.
